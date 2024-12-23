@@ -1,34 +1,15 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+## Talkhappi Client
+This repository contains the frontend code for Talkhappi, a full-stack mental health counseling web application designed to provide personalized support to users.
 
-## Getting Started
+# Project Overview
+Talkhappi aims to offer accessible mental health counseling through a user-friendly web platform. The client application provides an intuitive interface for users to interact with the platform's features, including counseling sessions, personalized feedback, and more.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on ZEIT Now
-
-The easiest way to deploy your Next.js app is to use the [ZEIT Now Platform](https://zeit.co/) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# talkhappi-client
->>>>>>> a2ff61e62e538d9ef1f86c54c40c2d53f106bd21
+# Features
+User Interface: A responsive and accessible design that ensures a seamless user experience across various devices.
+Counseling Sessions: Interactive sessions that allow users to receive personalized mental health support.
+Personalized Feedback: Real-time analysis and feedback based on user interactions, powered by integrated AI and machine learning models.
+Technologies Used
+Next.js: A React framework for server-rendered applications and static site generation.
+React.js: A JavaScript library for building user interfaces.
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
+Firebase: Backend services for authentication, database, and hosting.
