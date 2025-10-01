@@ -9,7 +9,7 @@ import Member1 from 'assets/team/anupam.jpg';
 import Member2 from 'assets/team/flowboat-sim-modified.png';
 import Member3 from 'assets/team/wajih-modified.png';
 import Member4 from 'assets/team/ayush-modified.jpg';
-import Member5 from 'assets/team/member-5.png';
+import Member5 from 'assets/team/member-5.jpg';
 import Member6 from 'assets/team/member-6.png';
 
 const data = [
@@ -121,7 +121,34 @@ const data = [
       },
     ],
   },
-
+  
+ {
+    id: 4,
+    imgSrc: Member5,
+    altText: 'Aws Sawan',
+    title: 'Aws Sawan',
+    designation: 'Chief Operating Officer',
+    socialProfile: [
+      {
+        id: 1,
+        name: 'facebook',
+        path: '#',
+        icon: <FaFacebookF />,
+      },
+      {
+        id: 2,
+        name: 'twitter',
+        path: '#',
+        icon: <FaTwitter />,
+      },
+      {
+        id: 3,
+        name: 'instagram',
+        path: '#',
+        icon: <FaInstagram />,
+      },
+    ],
+  },
 
 ];
 
